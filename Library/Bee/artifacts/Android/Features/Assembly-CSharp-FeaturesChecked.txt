@@ -1,0 +1,3 @@
+UnityEngine.Input::set_multiTouchEnabled
+UnityEngine.Input::GetTouch
+UnityEngine.Input::get_touchCount
